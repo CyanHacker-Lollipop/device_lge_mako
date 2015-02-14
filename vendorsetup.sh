@@ -15,3 +15,5 @@
 #
 
 add_lunch_combo aosp_mako-userdebug
+add_lunch_combo ch_mako-userdebug
+add_lunch_combo ch_mako-user
